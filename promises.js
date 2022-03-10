@@ -2,7 +2,7 @@
 // let promiseExample = fetch( 'https://www.boredapi.com/api/activity' )
 // console.log(promiseExample)
 
-const activity = document.createElement('h1')
+const activity = document.createElement('p')
 document.body.appendChild(activity)
 
 function showOneActivity() {
