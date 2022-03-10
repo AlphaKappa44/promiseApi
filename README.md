@@ -1,2 +1,9 @@
 # promiseApi
-An API to fetch nice ideas of little activitiesusing vanilla JS asynchronous promises
+
+🤺  🤸🏾‍♂️  🏋🏻‍♀️  🤼‍♀️  🏂  🤾🏻 🧰  🛍️  📊  🎉  📖  ✒️
+
+An API to fetch nice ideas of little activities using vanilla JS asynchronous promises
+
+Just double click index.html
+
+🚀 🚀 🚀
