@@ -90,3 +90,7 @@ button span {
     flex-direction: column;
     align-items: center;
 }
+
+p {
+    max-width: 70vw;
+}
